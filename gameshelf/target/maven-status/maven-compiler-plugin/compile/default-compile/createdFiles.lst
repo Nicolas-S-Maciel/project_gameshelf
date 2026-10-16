@@ -1,0 +1,5 @@
+br\com\estudos\gameshelf\model\Jogo.class
+br\com\estudos\gameshelf\controller\JogoController.class
+br\com\estudos\gameshelf\repository\JogoRepository.class
+br\com\estudos\gameshelf\service\JogoService.class
+br\com\estudos\gameshelf\GameshelfApplication.class
